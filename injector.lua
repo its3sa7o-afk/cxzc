@@ -1,2 +1,3 @@
--- [[ WW3 COMMANDER - ULTIMATE INJECTOR V2 ]]
--- [[TARGET: 93400241783915 ]]
+-- [[ WW3 COMMANDER - ULTIMATE GUI INJECTOR ]]
+
+local ScreenGui = Instance.new("ScreenGui") 
